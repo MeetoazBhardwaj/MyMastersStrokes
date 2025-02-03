@@ -1,5 +1,5 @@
 # My Master's Strokes - Mega 2025 Event
-
+![Event Banner](website.PNG)
 Welcome to the official repository for the Mega 2025 Event organized by My Master's Strokes. This event is a grand celebration of creativity and culture, bringing together students from various CBSE schools in Bangalore for an exciting art-integrated learning competition.
 
 ## Event Theme
